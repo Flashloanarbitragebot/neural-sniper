@@ -1,4 +1,4 @@
-# neural-sniper 🧠 NeuralSniper: AI-Powered Flash Arbitrage Bot
+# 🧠 NeuralSniper: AI-Powered Flash Arbitrage Bot
 
 NeuralSniper is an intelligent, adaptive DeFi trading bot that executes real-time flash loan arbitrage across multiple DEXs. It uses Aave for flash liquidity, Uniswap/Sushiswap for trades, and optional AI models to auto-tune strategy.
 
